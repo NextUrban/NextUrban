@@ -1,9 +1,9 @@
 ### Hi There!
 
-NextUrban bridges the gap between the understanding of neighborhood livability_
+NextUrban bridges the gap between the understanding of neighborhood livability\n
 and conventional planning decision-making practices.
 
-The goal is to augment planning performance management_ 
+The goal is to augment planning performance management\n
 and develop a smartcity rapid communication framework 📲 🌏
 
 <!--
