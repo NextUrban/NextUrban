@@ -1,6 +1,6 @@
 ### Hi There!
 
-<NextUrban bridges the gap between the understanding of neighborhood livability and conventional /> 
+<NextUrban bridges the gap between the understanding of neighborhood livability and conventional
 <planning decision-making practices.
 
 
