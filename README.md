@@ -3,7 +3,7 @@
 NextUrban bridges the gap between the understanding of neighborhood satisfaction         
 and conventional planning decision-making practices.     
 
-The goal is to augment planning performance management through rapid planning             
+The mission is to augment planning performance management through rapid planning             
 communication for smartcities. 🏡 📲 🌏 
 
 <!--
