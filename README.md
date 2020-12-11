@@ -1,6 +1,6 @@
 ### Hi There!
 
-NextUrban initially bridges the gap between the understanding of neighborhood satisfaction and conventional planning decision-making practices. A social media outlet has been tested to evaluate the potential of online review mining in planning practices. The applicable results are presented in the following repository providing the necessary introductions.         
+NextUrban initially bridges the gap between the understanding of neighborhood satisfaction and conventional planning decision-making practices. A social media outlet has been tested to evaluate the potential of online review mining in planning practices. The applicable results of the work are presented in the following repository along with the necessary instructions.         
 
 Ultimatly, the mission is to augment the planning performance management in smartcities through a rapid planning             
 communication framework. 🏡 📲 🌏      
